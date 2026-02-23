@@ -60,6 +60,9 @@ Pre Requisiti:
 ```text
 root/
 │
+├── Docs
+│   └── Contiiene la documentazione del progetto (Tesi)
+│
 ├── Excel & Grafici
 │   └── Contiiene tutti i file csv delle valutazioni svolti. Inoltre contiene i grafici trand/trade-off/radio
 │
