@@ -23,7 +23,7 @@ La seguente repo contiene tutti i codici utilizzati per:
 
 I modelli, i dataset e il loro addestramento e valutazione, fanno riferimento a [@Recbole](https://recbole.io/)
 
-#💻⚙️ Informazioni su hardware
+# 💻⚙️ Informazioni su hardware
 * Processore (CPU): AMD FX-8320 Eight-Core Processor. Si tratta di una CPU dotata di 8 core.
 * Memoria (RAM): 32 GB di memoria di sistema, supportati da 8 GB di memoria di swap.
 * Acceleratori Grafici (GPU): Il sistema è dotato di una configurazione multi-GPU composta da due schede video NVIDIA GeForce GTX TITAN X.
