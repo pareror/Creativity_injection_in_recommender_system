@@ -221,3 +221,7 @@ Università degli Studi di Bari “Aldo Moro”
 
 > **Relatore:** Prof. Cataldo Musto | **Correlatrice:** Prof.ssa Allegra De Filippo  
 > **Anno accademico** 2024 – 2025
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
