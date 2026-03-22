@@ -60,12 +60,18 @@ Pre Requisiti:
 ```text
 root/
 │
+├── CodiciGrafici
+│   └── Contiiene i codici python usati per la generazione dei grafici presenti nella cartella Excel & Grafici
+|
 ├── Docs
 │   └── Contiiene la documentazione del progetto (Tesi)
 │
 ├── Excel & Grafici
 │   └── Contiiene tutti i file csv delle valutazioni svolti. Inoltre contiene i grafici trand/trade-off/radio
 │
+├── Dataset
+│   └── Contiiene tutti i dataset utilizzati durante le sperimentazioni
+|
 ├── requirements.txt
 │   └── contiene le versioni delle librerie utilizzate
 │
